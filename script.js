@@ -20,10 +20,10 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Como as escolas poderiam incentivar a prática esportiva em crianças e adolescentes?",
+        enunciado: "Como a educação poderia incentivar o esporte para crianças e adolescentes dentro e fora da escola?",
         alternativas: [
-            "Motivando, ",
-            "Alternativa 2"
+            "Os profissionais de Educação Física deveriam incentivar a prática esportiva de diversas modalidades, ampliação das aulas de Educação Física, contratação de treinadores para a prática esportiva em período contra-turno",
+            "A educação deveria se preocupar com a formação básica e ética do cidadão, visto que a carreira esportiva são para poucos",
         ]
     },
 ];
