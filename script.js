@@ -6,23 +6,23 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Pensando em melhorar o desempenho dos atletas olímpicos para as Olimpíadas de 2028 (Los Angeles), o governo brasileiro deveria investir mais no esporte?",
         alternativas: [
-            "Alternativa 1",
-            "Alternativa 2"
+            "Sim, os atletas precisam de incentivos maiores para melhorar seu desempenho. Além disso, é necessário incentivar o esporte nas escolas para descobrir novos e futuros atletas",
+            "Não, o governo brasileiro deveria utilizar o dinheiro público em outras áreas de maior importância, tais como: saúde e educação",
         ]
     },
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Como o governo deveria distribuir o dinheiro investido no esporte?",
         alternativas: [
-            "Alternativa 1",
-            "Alternativa 2"
+            "Aumentando o valor do bolsa-atleta, construção de novas estruturas esportivas em localidades sem nenhuma estrutura, incentivo e apoio financeiro para novos atletas e futuros treinadores",
+            "Ampliando os centros de treinamento já construídos, investindo na formação dos treinadores já atuantes",
         ]
     },
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Como as escolas poderiam incentivar a prática esportiva em crianças e adolescentes?",
         alternativas: [
-            "Alternativa 1",
+            "Motivando, ",
             "Alternativa 2"
         ]
     },
