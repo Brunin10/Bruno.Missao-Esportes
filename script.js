@@ -37,8 +37,9 @@ const perguntas = [
             {
                 texto: "Os profissionais de Educação Física deveriam incentivar a prática esportiva de diversas modalidades, ampliação das aulas de Educação Física, contratação de treinadores para a prática esportiva em período contra-turno",
                 afirmacao: "afirmacao"
-            }
-            {   texto: "A educação deveria se preocupar com a formação básica e ética do cidadão, visto que a carreira esportiva são para poucos",
+            };
+            {
+                texto: "A educação deveria se preocupar com a formação básica e ética do cidadão, visto que a carreira esportiva são para poucos",
                 afirmacao: "afirmacao"
             }
         ]
