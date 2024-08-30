@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, os atletas precisam de incentivos maiores para melhorar seu desempenho. Além disso, é necessário incentivar o esporte nas escolas para descobrir novos e futuros atletas",
-                afirmacao: "afirmacao"
+                afirmacao: "O incentivo para atletas motiva pessoas que desejam ingressar nesta carreira."
             },
             {
                 texto: "Não, o governo brasileiro deveria utilizar o dinheiro público em outras áreas de maior importância, tais como: saúde e educação",
-                afirmacao: "afirmacao"
+                afirmacao: "A situação do Brasil mostra que a carreira de atleta é somente para poucos."
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Aumentando o valor do bolsa-atleta, construção de novas estruturas esportivas em localidades sem nenhuma estrutura, incentivo e apoio financeiro para novos atletas e futuros treinadores",
-                afirmacao: "afirmacao"
+                afirmacao: "Incentiva os atletas a obterem melhores desempenhos nas competições."
             },
             {
                 texto: "Ampliando os centros de treinamento já construídos, investindo na formação dos treinadores já atuantes",
-                afirmacao: "afirmacao"
+                afirmacao: "É necessário investir na infraestrutura e na capacitação para treinadores."
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Os profissionais de Educação Física deveriam incentivar a prática esportiva de diversas modalidades, ampliação das aulas de Educação Física, contratação de treinadores para a prática esportiva em período contra-turno",
-                afirmacao: "afirmacao"
+                afirmacao: "Aulas de Educação Física permitem a descoberta de novos atletas."
             },
             {
                 texto: "A educação deveria se preocupar com a formação básica e ética do cidadão, visto que a carreira esportiva são para poucos",
-                afirmacao: "afirmacao"
+                afirmacao: "O conhecimento básico em áreas do conhecimento é mais importante."
             }
         ]
     },
