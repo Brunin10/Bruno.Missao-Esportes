@@ -4,7 +4,6 @@
     --cor-secundaria: #212333;
     --cor-destaque: #2BDEFD;
     --cor-texto: #D7F9FF;
-
 }
 
 body {
@@ -26,6 +25,18 @@ body {
 
 h1{
     color: var(--cor-destaque); 
+}
+
+.caixa-perguntas{
+    padding-bottom: 10px;
+}
+
+:root{
+    --cor-fundo: #01080E ;
+    --cor-principal: #0B0D20;
+    --cor-secundaria: #212333;
+    --cor-destaque: #2BDEFD;
+    --cor-texto: #D7F9FF;
 }
 
 button {
