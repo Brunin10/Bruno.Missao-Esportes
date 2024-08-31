@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: "Pensando em melhorar o desempenho dos atletas olímpicos para as Olimpíadas de 2028 (Los Angeles), o governo brasileiro deveria investir mais no esporte?",
         alternativas: [
             {
-                texto: "Sim, os atletas precisam de incentivos maiores para melhorar seu desempenho. Além disso, é necessário incentivar o esporte nas escolas para descobrir novos e futuros atletas",
-                afirmacao: "O incentivo para atletas motiva pessoas que desejam ingressar nesta carreira."
+                texto: "Sim, os atletas precisam de incentivos maiores para melhorar seu desempenho",
+                afirmacao: "O incentivo para atletas motiva pessoas que desejam ingressar nesta carreira, principalmente as crianças e adolescentes."
             },
             {
-                texto: "Não, o governo brasileiro deveria utilizar o dinheiro público em outras áreas de maior importância, tais como: saúde e educação",
-                afirmacao: "A situação do Brasil mostra que a carreira de atleta é somente para poucos."
+                texto: "Não, o governo brasileiro deveria utilizar o dinheiro público em outras áreas",
+                afirmacao: "A situação do Brasil mostra que a carreira de atleta é somente para poucos. Assim, o governo deveria investir o dinheiro público em outras áreas (saúde, educação, saneamento básico.",
             }
         ]
     },
