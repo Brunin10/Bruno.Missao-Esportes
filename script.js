@@ -26,8 +26,8 @@ const perguntas = [
                 afirmacao: "Incentiva os atletas a obterem melhores desempenhos nas competições."
             },
             {
-                texto: "Ampliando os centros de treinamento já construídos, investindo na formação dos treinadores já atuantes",
-                afirmacao: "É necessário investir na infraestrutura e na capacitação para treinadores."
+                texto: "Ampliando os centros de treinamento e nos treinadores.",
+                afirmacao: "É necessário investir na melhoria da infraestrutura existente e na capacitação para treinadores."
             }
         ]
     },
@@ -35,12 +35,12 @@ const perguntas = [
         enunciado: "Como a educação poderia incentivar o esporte para crianças e adolescentes dentro e fora da escola?",
         alternativas: [
             {
-                texto: "Os profissionais de Educação Física deveriam incentivar a prática esportiva de diversas modalidades, ampliação das aulas de Educação Física, contratação de treinadores para a prática esportiva em período contra-turno",
-                afirmacao: "Aulas de Educação Física permitem a descoberta de novos atletas."
+                texto: "Aulas de Educação Física permitem a descoberta de novos atletas",
+                afirmacao: "Os profissionais de Educação Física deveriam incentivar a prática esportiva de diversas modalidades, ampliação das aulas de Educação Física, contratação de treinadores para a prática esportiva em período contra-turno."
             },
             {
-                texto: "A educação deveria se preocupar com a formação básica e ética do cidadão, visto que a carreira esportiva são para poucos",
-                afirmacao: "O conhecimento básico em áreas do conhecimento é mais importante."
+                texto: "A educação deveria estar vinculada com o mercado de trabalho.",
+                afirmacao: "Visto que a carreira esportiva são para poucos, a educação deveria preparar para o mercado de trabalho."
             }
         ]
     },
