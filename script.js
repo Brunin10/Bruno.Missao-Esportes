@@ -78,7 +78,7 @@ function respostaSelecionada(opcaoSelecionada){
 }
 
 
-function mostraResultado(){
+function mostraResultado() {
     caixaPerguntas.textContent = "";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
