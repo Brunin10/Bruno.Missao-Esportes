@@ -39,7 +39,7 @@ h1{
     --cor-texto: #D7F9FF;
 }
 
-button {
+button{
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
     border: none;
