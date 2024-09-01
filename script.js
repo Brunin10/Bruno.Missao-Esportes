@@ -81,7 +81,7 @@ function respostaSelecionada (opcaoSelecionada){
 } ;
 
 function mostraResultado (){
-    caixaPerguntas.textContent = "Em 2028..." ;
+    caixaPerguntas.textContent = "Por meio de suas escolhas, suas características são:" ;
     textoResultado.textContent = historiaFinal ;
     caixaAlternativas.textContent = "" ;
 }
