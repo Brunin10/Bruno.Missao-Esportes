@@ -31,7 +31,7 @@ const perguntas = [
             }
         ]
     },
-            {
+    {
         enunciado: "Como a educação poderia incentivar o esporte para crianças e adolescentes dentro e fora da escola?",
         alternativas: [
             {
@@ -43,7 +43,7 @@ const perguntas = [
                 afirmacao: "Visto que a carreira esportiva são para poucos, a educação deveria preparar para o mercado de trabalho."
             }
         ]
-    },
+    }
 ];
 
 let pergAtual = 0;
